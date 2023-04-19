@@ -1,0 +1,15 @@
+/Users/andy/Desktop/Antra/Exercise03/obj/Debug/net6.0/Exercise03.csproj.AssemblyReference.cache
+/Users/andy/Desktop/Antra/Exercise03/obj/Debug/net6.0/Exercise03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andy/Desktop/Antra/Exercise03/obj/Debug/net6.0/Exercise03.AssemblyInfoInputs.cache
+/Users/andy/Desktop/Antra/Exercise03/obj/Debug/net6.0/Exercise03.AssemblyInfo.cs
+/Users/andy/Desktop/Antra/Exercise03/obj/Debug/net6.0/Exercise03.csproj.CoreCompileInputs.cache
+/Users/andy/Desktop/Antra/Exercise03/bin/Debug/net6.0/Exercise03
+/Users/andy/Desktop/Antra/Exercise03/bin/Debug/net6.0/Exercise03.deps.json
+/Users/andy/Desktop/Antra/Exercise03/bin/Debug/net6.0/Exercise03.runtimeconfig.json
+/Users/andy/Desktop/Antra/Exercise03/bin/Debug/net6.0/Exercise03.dll
+/Users/andy/Desktop/Antra/Exercise03/bin/Debug/net6.0/Exercise03.pdb
+/Users/andy/Desktop/Antra/Exercise03/obj/Debug/net6.0/Exercise03.dll
+/Users/andy/Desktop/Antra/Exercise03/obj/Debug/net6.0/refint/Exercise03.dll
+/Users/andy/Desktop/Antra/Exercise03/obj/Debug/net6.0/Exercise03.pdb
+/Users/andy/Desktop/Antra/Exercise03/obj/Debug/net6.0/Exercise03.genruntimeconfig.cache
+/Users/andy/Desktop/Antra/Exercise03/obj/Debug/net6.0/ref/Exercise03.dll
