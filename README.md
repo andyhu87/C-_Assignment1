@@ -3,13 +3,12 @@
 
 **1. Playing With Console App**
 
-    _Readline_ and _WriteLine_
+    Readline and WriteLine
     
 **3. Practice Number Sizes and Ranges**
 
-  a. Type Memory
-  
-  b. Century Conversion
+	a. Type Memory
+  	b. Century Conversion
   
 **3. Practice Loops and Operations**
 
