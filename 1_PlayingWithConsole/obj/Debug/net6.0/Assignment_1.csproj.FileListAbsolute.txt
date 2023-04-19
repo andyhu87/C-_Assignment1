@@ -1,0 +1,15 @@
+/Users/andy/Desktop/Antra/Assignment_1/bin/Debug/net6.0/Assignment_1
+/Users/andy/Desktop/Antra/Assignment_1/bin/Debug/net6.0/Assignment_1.deps.json
+/Users/andy/Desktop/Antra/Assignment_1/bin/Debug/net6.0/Assignment_1.runtimeconfig.json
+/Users/andy/Desktop/Antra/Assignment_1/bin/Debug/net6.0/Assignment_1.dll
+/Users/andy/Desktop/Antra/Assignment_1/bin/Debug/net6.0/Assignment_1.pdb
+/Users/andy/Desktop/Antra/Assignment_1/obj/Debug/net6.0/Assignment_1.csproj.AssemblyReference.cache
+/Users/andy/Desktop/Antra/Assignment_1/obj/Debug/net6.0/Assignment_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andy/Desktop/Antra/Assignment_1/obj/Debug/net6.0/Assignment_1.AssemblyInfoInputs.cache
+/Users/andy/Desktop/Antra/Assignment_1/obj/Debug/net6.0/Assignment_1.AssemblyInfo.cs
+/Users/andy/Desktop/Antra/Assignment_1/obj/Debug/net6.0/Assignment_1.csproj.CoreCompileInputs.cache
+/Users/andy/Desktop/Antra/Assignment_1/obj/Debug/net6.0/Assignment_1.dll
+/Users/andy/Desktop/Antra/Assignment_1/obj/Debug/net6.0/refint/Assignment_1.dll
+/Users/andy/Desktop/Antra/Assignment_1/obj/Debug/net6.0/Assignment_1.pdb
+/Users/andy/Desktop/Antra/Assignment_1/obj/Debug/net6.0/Assignment_1.genruntimeconfig.cache
+/Users/andy/Desktop/Antra/Assignment_1/obj/Debug/net6.0/ref/Assignment_1.dll
