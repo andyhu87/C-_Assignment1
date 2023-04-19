@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "2_Print-a-Pyramid/1.0.0": {
+        "runtime": {
+          "2_Print-a-Pyramid.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2_Print-a-Pyramid/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

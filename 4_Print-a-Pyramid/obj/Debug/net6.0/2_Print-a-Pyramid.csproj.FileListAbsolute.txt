@@ -1,0 +1,15 @@
+/Users/andy/Desktop/Antra/2_Print-a-Pyramid/bin/Debug/net6.0/2_Print-a-Pyramid
+/Users/andy/Desktop/Antra/2_Print-a-Pyramid/bin/Debug/net6.0/2_Print-a-Pyramid.deps.json
+/Users/andy/Desktop/Antra/2_Print-a-Pyramid/bin/Debug/net6.0/2_Print-a-Pyramid.runtimeconfig.json
+/Users/andy/Desktop/Antra/2_Print-a-Pyramid/bin/Debug/net6.0/2_Print-a-Pyramid.dll
+/Users/andy/Desktop/Antra/2_Print-a-Pyramid/bin/Debug/net6.0/2_Print-a-Pyramid.pdb
+/Users/andy/Desktop/Antra/2_Print-a-Pyramid/obj/Debug/net6.0/2_Print-a-Pyramid.csproj.AssemblyReference.cache
+/Users/andy/Desktop/Antra/2_Print-a-Pyramid/obj/Debug/net6.0/2_Print-a-Pyramid.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andy/Desktop/Antra/2_Print-a-Pyramid/obj/Debug/net6.0/2_Print-a-Pyramid.AssemblyInfoInputs.cache
+/Users/andy/Desktop/Antra/2_Print-a-Pyramid/obj/Debug/net6.0/2_Print-a-Pyramid.AssemblyInfo.cs
+/Users/andy/Desktop/Antra/2_Print-a-Pyramid/obj/Debug/net6.0/2_Print-a-Pyramid.csproj.CoreCompileInputs.cache
+/Users/andy/Desktop/Antra/2_Print-a-Pyramid/obj/Debug/net6.0/2_Print-a-Pyramid.dll
+/Users/andy/Desktop/Antra/2_Print-a-Pyramid/obj/Debug/net6.0/refint/2_Print-a-Pyramid.dll
+/Users/andy/Desktop/Antra/2_Print-a-Pyramid/obj/Debug/net6.0/2_Print-a-Pyramid.pdb
+/Users/andy/Desktop/Antra/2_Print-a-Pyramid/obj/Debug/net6.0/2_Print-a-Pyramid.genruntimeconfig.cache
+/Users/andy/Desktop/Antra/2_Print-a-Pyramid/obj/Debug/net6.0/ref/2_Print-a-Pyramid.dll
