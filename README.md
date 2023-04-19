@@ -5,7 +5,7 @@ Non-Coding questions (including the error code execution) are in the PDF file
 
 9 Coding Questions
 
-**1. Playing With Console App**
+**1.	Playing With Console App**
 	-Readline and WriteLine
     
 **2. Practice Number Sizes and Ranges**
