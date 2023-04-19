@@ -6,12 +6,12 @@ Non-Coding questions (including the error code execution) are in the PDF file
 9 Coding Questions
 
 **1. Playing With Console App**
-	- Readline and WriteLine
++ Readline and WriteLine
     
 **2. Practice Number Sizes and Ranges**
 
-	a. Type Memory
-  	b. Century Conversion
++Type Memory
++Century Conversion
   
 **3. Practice Loops and Operations**
 
