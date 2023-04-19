@@ -5,22 +5,17 @@
 
     Readline and WriteLine
     
-**3. Practice Number Sizes and Ranges**
+**2. Practice Number Sizes and Ranges**
 
 	a. Type Memory
   	b. Century Conversion
   
 **3. Practice Loops and Operations**
 
-  a. FizzBuzz
-  
-  b. Print-A-Pyramid
-  
-  c. Guess Number
-  
-  d. Birth Date
-  
-  e. Greetings
-  
-  f. Counting Increments
+	a. FizzBuzz
+	b. Print-A-Pyramid
+	c. Guess Number
+	d. Birth Date
+	e. Greetings
+	f. Counting Increments
   
