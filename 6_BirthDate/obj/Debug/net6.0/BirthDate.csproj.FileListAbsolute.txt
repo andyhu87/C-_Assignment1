@@ -1,0 +1,15 @@
+/Users/andy/Desktop/Antra/BirthDate/bin/Debug/net6.0/BirthDate
+/Users/andy/Desktop/Antra/BirthDate/bin/Debug/net6.0/BirthDate.deps.json
+/Users/andy/Desktop/Antra/BirthDate/bin/Debug/net6.0/BirthDate.runtimeconfig.json
+/Users/andy/Desktop/Antra/BirthDate/bin/Debug/net6.0/BirthDate.dll
+/Users/andy/Desktop/Antra/BirthDate/bin/Debug/net6.0/BirthDate.pdb
+/Users/andy/Desktop/Antra/BirthDate/obj/Debug/net6.0/BirthDate.csproj.AssemblyReference.cache
+/Users/andy/Desktop/Antra/BirthDate/obj/Debug/net6.0/BirthDate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andy/Desktop/Antra/BirthDate/obj/Debug/net6.0/BirthDate.AssemblyInfoInputs.cache
+/Users/andy/Desktop/Antra/BirthDate/obj/Debug/net6.0/BirthDate.AssemblyInfo.cs
+/Users/andy/Desktop/Antra/BirthDate/obj/Debug/net6.0/BirthDate.csproj.CoreCompileInputs.cache
+/Users/andy/Desktop/Antra/BirthDate/obj/Debug/net6.0/BirthDate.dll
+/Users/andy/Desktop/Antra/BirthDate/obj/Debug/net6.0/refint/BirthDate.dll
+/Users/andy/Desktop/Antra/BirthDate/obj/Debug/net6.0/BirthDate.pdb
+/Users/andy/Desktop/Antra/BirthDate/obj/Debug/net6.0/BirthDate.genruntimeconfig.cache
+/Users/andy/Desktop/Antra/BirthDate/obj/Debug/net6.0/ref/BirthDate.dll
