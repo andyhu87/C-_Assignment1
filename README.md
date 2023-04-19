@@ -1,4 +1,8 @@
 # C-_Assignment1
+
+Non-Coding questions (including the error code execution) are in the PDF file
+
+
 9 Coding Questions
 
 **1. Playing With Console App**
