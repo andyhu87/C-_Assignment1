@@ -10,15 +10,15 @@ Non-Coding questions (including the error code execution) are in the PDF file
     
 **2. Practice Number Sizes and Ranges**
 
-+Type Memory
-+Century Conversion
++ Type Memory
++ Century Conversion
   
 **3. Practice Loops and Operations**
 
-	a. FizzBuzz
-	b. Print-A-Pyramid
-	c. Guess Number
-	d. Birth Date
-	e. Greetings
-	f. Counting Increments
++ FizzBuzz
++ Print-A-Pyramid
++ Guess Number
++ Birth Date
++ Greetings
++ Counting Increments
   
