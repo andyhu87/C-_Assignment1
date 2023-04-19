@@ -1,0 +1,15 @@
+/Users/andy/Desktop/Antra/Counting/bin/Debug/net6.0/Counting
+/Users/andy/Desktop/Antra/Counting/bin/Debug/net6.0/Counting.deps.json
+/Users/andy/Desktop/Antra/Counting/bin/Debug/net6.0/Counting.runtimeconfig.json
+/Users/andy/Desktop/Antra/Counting/bin/Debug/net6.0/Counting.dll
+/Users/andy/Desktop/Antra/Counting/bin/Debug/net6.0/Counting.pdb
+/Users/andy/Desktop/Antra/Counting/obj/Debug/net6.0/Counting.csproj.AssemblyReference.cache
+/Users/andy/Desktop/Antra/Counting/obj/Debug/net6.0/Counting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andy/Desktop/Antra/Counting/obj/Debug/net6.0/Counting.AssemblyInfoInputs.cache
+/Users/andy/Desktop/Antra/Counting/obj/Debug/net6.0/Counting.AssemblyInfo.cs
+/Users/andy/Desktop/Antra/Counting/obj/Debug/net6.0/Counting.csproj.CoreCompileInputs.cache
+/Users/andy/Desktop/Antra/Counting/obj/Debug/net6.0/Counting.dll
+/Users/andy/Desktop/Antra/Counting/obj/Debug/net6.0/refint/Counting.dll
+/Users/andy/Desktop/Antra/Counting/obj/Debug/net6.0/Counting.pdb
+/Users/andy/Desktop/Antra/Counting/obj/Debug/net6.0/Counting.genruntimeconfig.cache
+/Users/andy/Desktop/Antra/Counting/obj/Debug/net6.0/ref/Counting.dll
